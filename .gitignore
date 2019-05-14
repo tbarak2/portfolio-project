@@ -1,0 +1,7 @@
+portfolio/__pycache__/
+blog/__pycache__/
+jobs/__pycache__/
+migrations/
+db.sqlite3
+__init__.*
+*.pyc
